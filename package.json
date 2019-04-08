@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "express": "3.x",
-    "config": "0.4.15",
+    "config": "0.4.18",
     "request": "2.9.153"
   }
 }
